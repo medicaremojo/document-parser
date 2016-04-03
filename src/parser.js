@@ -1,14 +1,33 @@
-import fs from 'fs';
-import PDFParser from 'pdf2json';
+var jsonDocument = require('../docs/Medicare_and_you_2016_parsed.json');
 
-const pdfParser = new PDFParser();
+var newDocumentJson = [];
+var questionCounter = 0;
 
-const inputFile = './docs/SocSecdoc.pdf';
-const outputFile = './dist/SocSecdoc.txt';
+jsonDocument.formImage.Pages.forEach(function(page, pageIndex) {
+  var pageText = page.Texts;
+  var question = "";
+  pageText.forEach(function(text, textIndex) {
+    if (text.sw === 0.26953125) {
+      var textSection = text.R;
+      textSection.forEach(function(section) {
+        question += decodeURIComponent(section.T);
+      });
+    }
+  });
 
-pdfParser.on('pdfParser_dataError', errData => console.error(errData.parserError) );
-pdfParser.on('pdfParser_dataReady', pdfData => {
-  fs.writeFile(outputFile, JSON.stringify(pdfParser.getRawTextContent()));
+  if (question.length > 0) {
+    newDocumentJson.push({
+      question: question,
+      page: pageIndex,
+      index: questionCounter++
+    });
+  }
 });
 
-pdfParser.loadPDF(inputFile);
+function unicodeToChar(text) {
+  return text.replace(/\\u[\dA-F]{4}/gi, function (match) {
+    return String.fromCharCode(parseInt(match.replace(/\\u/g, ''), 16));
+  });
+}
+
+console.log(JSON.stringify(newDocumentJson));
