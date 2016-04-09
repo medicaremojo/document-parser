@@ -2,6 +2,7 @@
 
 Parses PDFs and strips out relevant text
 
+[Tutorial](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/nl-classifier/get_start.shtml)
 
 ```bash
 curl -i -u "<username>":"<password>" \
