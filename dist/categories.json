@@ -1,0 +1,856 @@
+[
+  {
+    "question": "Questions",
+    "categories": [
+      "Categories"
+    ]
+  },
+  {
+    "question": "What are the different parts of Medicare?",
+    "categories": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ]
+  },
+  {
+    "question": "How can I get my Medicare coverage?",
+    "categories": [
+      "coverage"
+    ]
+  },
+  {
+    "question": "What are my Medicare coverage choices?",
+    "categories": [
+      "coverage",
+      "Original Medicare",
+      "Medicare Advantage"
+    ]
+  },
+  {
+    "question": "What should I consider when choosing or changing my coverage?",
+    "categories": [
+      "coverage",
+      "decision",
+      "change"
+    ]
+  },
+  {
+    "question": "What if I need help deciding how to get my Medicare?",
+    "categories": [
+      "decision"
+    ]
+  },
+  {
+    "question": "Where can I get my questions answered?",
+    "categories": [
+      "resources"
+    ]
+  },
+  {
+    "question": "Why do some people get Part A and Part B automatically?",
+    "categories": [
+      "Part A",
+      "Part B",
+      "qualification"
+    ]
+  },
+  {
+    "question": "Do I have to sign up for Part A and/or Part B?",
+    "categories": [
+      "Part A",
+      "Part B",
+      "enrollment"
+    ]
+  },
+  {
+    "question": "Where can I get more information about Part A and/or Part B?",
+    "categories": [
+      "Part A",
+      "Part B",
+      "resources"
+    ]
+  },
+  {
+    "question": "If I’m not automatically enrolled, when can I sign up?",
+    "categories": [
+      "enrollment"
+    ]
+  },
+  {
+    "question": "How does my other insurance work with Medicare?",
+    "categories": [
+      "other insurance"
+    ]
+  },
+  {
+    "question": "What is Medicare and the Health Insurance Marketplace?",
+    "categories": [
+      "Health Insurance Marketplace"
+    ]
+  },
+  {
+    "question": "Can I get a Marketplace plan instead of Medicare, or can I get a Marketplace plan in addition to Medicare?",
+    "categories": [
+      "Health Insurance Marketplace",
+      "change",
+      "coverage",
+      "plans"
+    ]
+  },
+  {
+    "question": "Where can I get more information about Marketplace coverage?",
+    "categories": [
+      "coverage",
+      "Health Insurance Marketplace",
+      "resources"
+    ]
+  },
+  {
+    "question": "What’s the Part A late enrollment penalty?",
+    "categories": [
+      "Part A",
+      "enrollment",
+      "penalty",
+      "late"
+    ]
+  },
+  {
+    "question": "How much does Part B coverage cost?",
+    "categories": [
+      "Part B",
+      "coverage",
+      "cost"
+    ]
+  },
+  {
+    "question": "What’s the Part B late enrollment penalty?",
+    "categories": [
+      "Part B",
+      "enrollment",
+      "penalty",
+      "late"
+    ]
+  },
+  {
+    "question": "How can I pay my Part B premium?",
+    "categories": [
+      "Part B",
+      "cost",
+      "premium",
+      "resources"
+    ]
+  },
+  {
+    "question": "What services does Medicare cover?",
+    "categories": [
+      "services",
+      "coverage"
+    ]
+  },
+  {
+    "question": "What does Part A cover?",
+    "categories": [
+      "Part A",
+      "coverage"
+    ]
+  },
+  {
+    "question": "What do I pay for Part A-covered services?",
+    "categories": [
+      "Part A",
+      "cost"
+    ]
+  },
+  {
+    "question": "What are the Part A-covered services?",
+    "categories": [
+      "Part A",
+      "coverage",
+      "services"
+    ]
+  },
+  {
+    "question": "Am I an inpatient or outpatient?",
+    "categories": [
+      "inpatient",
+      "outpatient"
+    ]
+  },
+  {
+    "question": "What does Part B cover?",
+    "categories": [
+      "Part B",
+      "coverage"
+    ]
+  },
+  {
+    "question": "What are the Part B-covered services?",
+    "categories": [
+      "Part B",
+      "coverage",
+      "services"
+    ]
+  },
+  {
+    "question": "Want to keep track of your preventive services?",
+    "categories": [
+      "tracking",
+      "services"
+    ]
+  },
+  {
+    "question": "What’s NOT covered by Part A and Part B?",
+    "categories": [
+      "coverage",
+      "Part A",
+      "Part B"
+    ]
+  },
+  {
+    "question": "What’s the Long-Term Care Ombudsman?",
+    "categories": [
+      "Ombudsman"
+    ]
+  },
+  {
+    "question": "How does Original Medicare work?",
+    "categories": [
+      "Original Medicare"
+    ]
+  },
+  {
+    "question": "Are prescription drugs covered by Original Medicare?",
+    "categories": [
+      "Part D",
+      "Original Medicare",
+      "drugs"
+    ]
+  },
+  {
+    "question": "Do I need to choose a primary care doctor?",
+    "categories": [
+      "primary care",
+      "doctor",
+      "decision"
+    ]
+  },
+  {
+    "question": "Do I have to get a referral to see a specialist?",
+    "categories": [
+      "referral",
+      "specialist"
+    ]
+  },
+  {
+    "question": "Should I get a supplemental policy?",
+    "categories": [
+      "supplemental policy"
+    ]
+  },
+  {
+    "question": "What do I pay for Original Medicare?",
+    "categories": [
+      "Original Medicare",
+      "cost"
+    ]
+  },
+  {
+    "question": "How do I know what Medicare paid?",
+    "categories": [
+      "cost",
+      "coverage"
+    ]
+  },
+  {
+    "question": "What’s assignment?",
+    "categories": [
+      "assignment"
+    ]
+  },
+  {
+    "question": "What are private contracts?",
+    "categories": [
+      "private contracts"
+    ]
+  },
+  {
+    "question": "Can I add drug coverage (Part D) to Original Medicare?",
+    "categories": [
+      "Part D",
+      "Original Medicare"
+    ]
+  },
+  {
+    "question": "What are Medicare Advantage Plans?",
+    "categories": [
+      "Medicare Advantage"
+    ]
+  },
+  {
+    "question": "What else should I know about Medicare Advantage Plans?",
+    "categories": [
+      "Medicare Advantage",
+      "resources"
+    ]
+  },
+  {
+    "question": "Who can join Medicare Advantage Plans?",
+    "categories": [
+      "Medicare Advantage",
+      "enrollment"
+    ]
+  },
+  {
+    "question": "What if I have a Medicare Supplement Insurance (Medigap) Policy?",
+    "categories": [
+      "Medigap"
+    ]
+  },
+  {
+    "question": "What if I have End-Stage Renal Disease (ESRD)?",
+    "categories": [
+      "ESRD"
+    ]
+  },
+  {
+    "question": "What do I pay for Medicare Advantage Plan?",
+    "categories": [
+      "Medicare Advantage",
+      "cost"
+    ]
+  },
+  {
+    "question": "With a Health Maintenance Organization (HMO) plan, can I get my health care from any doctor, other health care provider, or hospital?",
+    "categories": [
+      "HMO",
+      "coverage",
+      "doctor",
+      "provider",
+      "hospital"
+    ]
+  },
+  {
+    "question": "With a Health Maintenance Organization (HMO) plan, are prescription drugs covered?",
+    "categories": [
+      "HMO",
+      "coverage",
+      "drugs"
+    ]
+  },
+  {
+    "question": "With a Health Maintenance Organization (HMO) plan, do I need to choose a primary care doctor?",
+    "categories": [
+      "HMO",
+      "decision",
+      "doctor"
+    ]
+  },
+  {
+    "question": "With a Health Maintenance Organization (HMO) plan, do I have to get a referral to see a specialist?",
+    "categories": [
+      "HMO",
+      "referral",
+      "specialist"
+    ]
+  },
+  {
+    "question": "What else do I need to know about a Health Maintenance Organization (HMO) plan?",
+    "categories": [
+      "HMO",
+      "resources"
+    ]
+  },
+  {
+    "question": "With a Preferred Provider Organization (PPO) plan, can I get my health care from any doctor, other health care provider, or hospital?",
+    "categories": [
+      "PPO",
+      "coverage",
+      "doctor",
+      "provider",
+      "hospital"
+    ]
+  },
+  {
+    "question": "With a Preferred Provider Organization (PPO) plan, are prescription drugs covered?",
+    "categories": [
+      "PPO",
+      "coverage",
+      "drugs"
+    ]
+  },
+  {
+    "question": "With a Preferred Provider Organization (PPO) plan, do I need to choose a primary care doctor?",
+    "categories": [
+      "PPO",
+      "decision",
+      "doctor"
+    ]
+  },
+  {
+    "question": "With a Preferred Provider Organization (PPO) plan, do I have to get a referral to see a specialist?",
+    "categories": [
+      "PPO",
+      "referral",
+      "specialist"
+    ]
+  },
+  {
+    "question": "With a Private Fee-for-Service (PFFS) plan, can I get my health care from any doctor, other health care provider, or hospital?",
+    "categories": [
+      "PFFS",
+      "coverage",
+      "doctor",
+      "provider",
+      "hospital"
+    ]
+  },
+  {
+    "question": "With a Private Fee-for-Service (PFFS) plan, are prescription drugs covered?",
+    "categories": [
+      "PFFS",
+      "coverage",
+      "drugs"
+    ]
+  },
+  {
+    "question": "With a Private Fee-for-Service (PFFS) plan, do I need to choose a primary care doctor?",
+    "categories": [
+      "PFFS",
+      "decision",
+      "doctor"
+    ]
+  },
+  {
+    "question": "With a Private Fee-for-Service (PFFS) plan, do I have to get a referral to see a specialist?",
+    "categories": [
+      "PFFS",
+      "referral",
+      "specialist"
+    ]
+  },
+  {
+    "question": "With a Special Needs Plan (SNP), can I get my health care from any doctor, other health care provider, or hospital?",
+    "categories": [
+      "SNP",
+      "coverage",
+      "doctor",
+      "provider",
+      "hospital"
+    ]
+  },
+  {
+    "question": "With a Special Needs Plan (SNP), are prescription drugs covered?",
+    "categories": [
+      "SNP",
+      "coverage",
+      "drugs"
+    ]
+  },
+  {
+    "question": "With a Special Needs Plan (SNP), do I need to choose a primary care doctor?",
+    "categories": [
+      "SNP",
+      "decision",
+      "doctor"
+    ]
+  },
+  {
+    "question": "With a Special Needs Plan (SNP), do I have to get a referral to see a specialist?",
+    "categories": [
+      "SNP",
+      "referral",
+      "specialist"
+    ]
+  },
+  {
+    "question": "When can I join, switch, or drop a Medicare Advantage Plan?",
+    "categories": [
+      "Medicare Advantage",
+      "change",
+      "enrollment",
+      "drop"
+    ]
+  },
+  {
+    "question": "Can I make changes to my coverage after December 7?",
+    "categories": [
+      "coverage",
+      "date",
+      "change"
+    ]
+  },
+  {
+    "question": "How do I switch a Medicare Advantage Plan?",
+    "categories": [
+      "Medicare Advantage",
+      "change"
+    ]
+  },
+  {
+    "question": "Are there other types of Medicare health plans?",
+    "categories": [
+      "resources",
+      "plans"
+    ]
+  },
+  {
+    "question": "What are Medicare Supplement Insurance (Medigap) Policies?",
+    "categories": [
+      "Medigap",
+      "policies"
+    ]
+  },
+  {
+    "question": "How do I compare Medigap policies?",
+    "categories": [
+      "Medigap",
+      "compare"
+    ]
+  },
+  {
+    "question": "What else should I know about Medicare Supplement Insurance (Medigap)?",
+    "categories": [
+      "Medigap",
+      "resources"
+    ]
+  },
+  {
+    "question": "How does Medigap work with Medicare Advantage Plans?",
+    "categories": [
+      "Medigap",
+      "Medicare Advantage"
+    ]
+  },
+  {
+    "question": "Where can I get more information about Medicare Supplement Insurance (Medigap)?",
+    "categories": [
+      "Medigap",
+      "resources"
+    ]
+  },
+  {
+    "question": "How does Medicare prescription drug coverage (Part D) work?",
+    "categories": [
+      "Part D"
+    ]
+  },
+  {
+    "question": "When can I join, switch, or drop a Medicare drug plan?",
+    "categories": [
+      "Part D",
+      "change",
+      "enrollment",
+      "drop"
+    ]
+  },
+  {
+    "question": "How do I switch to a new Medicare drug plan?",
+    "categories": [
+      "Part D",
+      "plans",
+      "change"
+    ]
+  },
+  {
+    "question": "How do I drop a Medicare drug plan?",
+    "categories": [
+      "Part D",
+      "drop"
+    ]
+  },
+  {
+    "question": "How much do I pay for a Medicare drug plan?",
+    "categories": [
+      "Part D",
+      "cost"
+    ]
+  },
+  {
+    "question": "What’s the Part D late enrollment penalty?",
+    "categories": [
+      "Part D",
+      "enrollment",
+      "penalty"
+    ]
+  },
+  {
+    "question": "How much more will I pay for a Part D late enrollment penalty?",
+    "categories": [
+      "Part D",
+      "enrollment",
+      "penalty",
+      "cost"
+    ]
+  },
+  {
+    "question": "What if I don’t agree with the penalty?",
+    "categories": [
+      "Part D",
+      "disagree"
+    ]
+  },
+  {
+    "question": "Which drugs are covered by Part D?",
+    "categories": [
+      "Part D",
+      "coverage"
+    ]
+  },
+  {
+    "question": "Do you get automatic prescription refills in the mail?",
+    "categories": [
+      "refills",
+      "drugs"
+    ]
+  },
+  {
+    "question": "How do other insurance and programs work with Part D?",
+    "categories": [
+      "Part D",
+      "other insurance"
+    ]
+  },
+  {
+    "question": "How does other government insurance work with Part D?",
+    "categories": [
+      "Part D",
+      "other insurance"
+    ]
+  },
+  {
+    "question": "What if I need help paying my Medicare prescription drug costs?",
+    "categories": [
+      "drugs",
+      "cost",
+      "help"
+    ]
+  },
+  {
+    "question": "What if I need help paying my Medicare health care costs?",
+    "categories": [
+      "coverage",
+      "cost",
+      "help"
+    ]
+  },
+  {
+    "question": "How do I qualify?",
+    "categories": [
+      "qualification"
+    ]
+  },
+  {
+    "question": "What does Medicaid cover?",
+    "categories": [
+      "Medicaid",
+      "coverage"
+    ]
+  },
+  {
+    "question": "How do I qualify for Medicaid?",
+    "categories": [
+      "Medicaid",
+      "qualification"
+    ]
+  },
+  {
+    "question": "What are demonstration plans for people who have both Medicare and Medicaid?",
+    "categories": [
+      "Medicaid",
+      "plans"
+    ]
+  },
+  {
+    "question": "What are my Medicare rights?",
+    "categories": [
+      "rights"
+    ]
+  },
+  {
+    "question": "What are my rights if my plan stops participating in Medicare?",
+    "categories": [
+      "rights",
+      "drop"
+    ]
+  },
+  {
+    "question": "What’s an appeal?",
+    "categories": [
+      "appeal"
+    ]
+  },
+  {
+    "question": "How do I file an appeal?",
+    "categories": [
+      "appeal",
+      "filing"
+    ]
+  },
+  {
+    "question": "How do I ask for a coverage determination or exception?",
+    "categories": [
+      "exception",
+      "coverage"
+    ]
+  },
+  {
+    "question": "What are my rights if I think my services are ending too soon?",
+    "categories": [
+      "rights",
+      "services",
+      "drop"
+    ]
+  },
+  {
+    "question": "How can I get help filing an appeal?",
+    "categories": [
+      "filing",
+      "help",
+      "appeal"
+    ]
+  },
+  {
+    "question": "What’s an “Advance Beneficiary Notice of Noncoverage” (ABN)?",
+    "categories": [
+      "ABN"
+    ]
+  },
+  {
+    "question": "What happens if I get an ABN?",
+    "categories": [
+      "ABN",
+      "coverage"
+    ]
+  },
+  {
+    "question": "Can I get an ABN for other reasons?",
+    "categories": [
+      "ABN",
+      "resources"
+    ]
+  },
+  {
+    "question": "What if I didn’t get an ABN?",
+    "categories": [
+      "ABN"
+    ]
+  },
+  {
+    "question": "Where can I get more information about appeals and ABNs?",
+    "categories": [
+      "ABN",
+      "appeal",
+      "resources"
+    ]
+  },
+  {
+    "question": "How does Medicare use my personal information?",
+    "categories": [
+      "personal information"
+    ]
+  },
+  {
+    "question": "How can I protect myself from identity theft?",
+    "categories": [
+      "personal information",
+      "identity theft"
+    ]
+  },
+  {
+    "question": "How can I protect myself and Medicare from fraud?",
+    "categories": [
+      "fraud",
+      "protection"
+    ]
+  },
+  {
+    "question": "What’s the Senior Medicare Patrol (SMP) Program?",
+    "categories": [
+      "SMP"
+    ]
+  },
+  {
+    "question": "Is my right to my own health information protected?",
+    "categories": [
+      "rights",
+      "protection"
+    ]
+  },
+  {
+    "question": "What’s the Medicare Beneficiary Ombudsman?",
+    "categories": [
+      "Ombudsman"
+    ]
+  },
+  {
+    "question": "What are advance directives?",
+    "categories": [
+      "advanced directives"
+    ]
+  },
+  {
+    "question": "What if I already have an advance directive?",
+    "categories": [
+      "advanced directives"
+    ]
+  },
+  {
+    "question": "Where can I get personalized help?",
+    "categories": [
+      "help",
+      "resources"
+    ]
+  },
+  {
+    "question": "Do you need someone to be able to call 1-800-MEDICARE on your behalf?",
+    "categories": [
+      "help"
+    ]
+  },
+  {
+    "question": "Did your household get more than one copy of “Medicare & You?”",
+    "categories": [
+      "resources"
+    ]
+  },
+  {
+    "question": "What are State Health Insurance Assistance Programs (SHIPs)?",
+    "categories": [
+      "SHIPs"
+    ]
+  },
+  {
+    "question": "Where can I find general Medicare information online?",
+    "categories": [
+      "online"
+    ]
+  },
+  {
+    "question": "Where can I find personalized Medicare information online?",
+    "categories": [
+      "online",
+      "help"
+    ]
+  },
+  {
+    "question": "How do I compare the quality of plans and providers?",
+    "categories": [
+      "plans",
+      "compare"
+    ]
+  },
+  {
+    "question": "What’s Medicare doing to better coordinate my care?",
+    "categories": [
+      "improvement"
+    ]
+  },
+  {
+    "question": "Are there other ways to get Medicare information?",
+    "categories": [
+      "resources"
+    ]
+  }
+]
