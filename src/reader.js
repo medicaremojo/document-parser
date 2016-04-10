@@ -11,10 +11,11 @@ function exportQuestions() {
   writeStream.end();
 }
 
-if (process.argv[2] === '--export') {
-  switch (process.argv[3]) {
-  case 'questions':
-  default:
-    exportQuestions();
-  }
-}
+// if (process.argv[2] === '--export') {
+//   switch (process.argv[3]) {
+//   case 'questions':
+//   default:
+//     exportQuestions();
+//   }
+// }
+exportQuestions();

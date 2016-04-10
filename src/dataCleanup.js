@@ -42,11 +42,13 @@ function mapSectionByPage(page) {
   }
 }
 
+var id = 0;
+
 newDoc = originalDoc.map(function(entry, entryIndex) {
-  var newEntry = {};
-  if (entry.question === entry.section) {
-    newEntry.section = mapSectionByPage(entry.page);
-  }
+  var newEntry = {
+    id: id++,
+    page: entry.page + 1
+  };
 
   return Object.assign({}, entry, newEntry);
 });
