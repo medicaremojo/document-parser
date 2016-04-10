@@ -42,24 +42,22 @@ function mapSectionByPage(page) {
   }
 }
 
-transformedDoc = originalDoc.map(function(entry, entryIndex) {
+newDoc = originalDoc.map(function(entry, entryIndex) {
   var newEntry = {};
-  if (entry.question.length === 0 && entry.section.length === 0) {
-    return null;
-  }
-
-  if (entry.section.length === 0) {
+  if (entry.question === entry.section) {
     newEntry.section = mapSectionByPage(entry.page);
   }
 
-  if (entry.question.length === 0) {
-    newEntry.question = entry.section;
-  }
   return Object.assign({}, entry, newEntry);
 });
 
-newDoc = transformedDoc.filter(function(entry) {
-  return entry !== null;
-});
-
 writeOut(newDoc, "./dist/medicare_pages_parsed.json");
+
+// var indexWithProblems = [];
+// originalDoc.forEach(function(entry, entryIndex) {
+//   var correctSection = /^Section/.test(entry.section) || /^Introduction$/.test(entry.section);
+//   if (!correctSection) {
+//     console.log(entry.section);
+//     indexWithProblems.push(entryIndex);
+//   }
+// });

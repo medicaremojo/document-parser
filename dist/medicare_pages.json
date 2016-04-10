@@ -1,38 +1,10 @@
 [
   {
-    "question": "October 1, 2015 ",
-    "paragraph": "Start comparing your coverage with other options. You may be able to save money by comparing all of your options. See page 18 for information on comparing plans. ",
-    "section": "October 1, 2015 ",
-    "page": 12,
-    "id": 0
-  },
-  {
-    "question": "October 15– December 7, 2015 (Open Enrollment)",
-    "paragraph": "Change your Medicare health or prescription drug coverage for 2016, if you decide to. See pages 94–95 and 106–107 for other times you may be able to switch your coverage. ",
-    "section": "October 15– December 7, 2015 (Open Enrollment)",
-    "page": 12,
-    "id": 1
-  },
-  {
     "question": "What are my Medicare coverage choices?",
     "paragraph": "There are 2 main choices for how you get your Medicare coverage. Use these steps to help you decide.In addition to the options listed above, you may be able to join other types of Medicare health plans. See pages 90–98. Some people may have other coverage like employer or union, Medicaid, TRICARE, or veterans’ benefits. See pages 116–118.Note: If you join a Medicare Advantage Plan, you can’t use Medicare Supplement Insurance (Medigap) to pay for out-of-pocket costs you have in the Medicare Advantage Plan. If you already have a Medicare Advantage Plan, you can’t be sold a Medigap policy. You can generally only use a Medigap policy if you disenroll from your Medicare Advantage Plan and return to Original Medicare. See page 103. ",
     "section": "Section 1- Learn How Medicare Works",
     "page": 16,
     "id": 2
-  },
-  {
-    "question": "Original Medicare ",
-    "paragraph": "includes Part",
-    "section": "Section 1- Learn How Medicare Works",
-    "page": 16,
-    "id": 4
-  },
-  {
-    "question": "Medicare Advantage ",
-    "paragraph": "(",
-    "section": "Section 1- Learn How Medicare Works",
-    "page": 16,
-    "id": 15
   },
   {
     "question": "What should I consider when choosing or changing my coverage? Convenience",
@@ -84,13 +56,6 @@
     "id": 27
   },
   {
-    "question": "Section 1—Learn How Medicare Works  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 1—Learn How Medicare Works  ",
-    "page": 18,
-    "id": 28
-  },
-  {
     "question": "Where can I get my questions answered? 1-800-MEDICARE ",
     "paragraph": "(1-800-633-4227) Get general or claims-specific Medicare information, request documents in alternate formats, and make changes to your Medicare coverage. If you need help in a language other than English or Spanish, say “Agent” to talk to a customer service representative. TTY: 1-877-486-2048 Medicare.gov",
     "section": "Section 1- Learn How Medicare Works",
@@ -126,13 +91,6 @@
     "id": 33
   },
   {
-    "question": "Section 2—Signing Up for Medicare Part A and Part B   ",
-    "paragraph": "Definitions of blue words are on pages 153–156. You can also get personalized health insurance counseling at no cost to you from your State Health Insurance Assistance Program (SHIP). See page 149 for the phone number. ",
-    "section": "Section 2—Signing Up for Medicare Part A and Part B   ",
-    "page": 24,
-    "id": 34
-  },
-  {
     "question": "If I’m not automatically enrolled, when can I sign up?",
     "paragraph": "If you’re eligible for free Part A, you can sign up for Part A anytime once your Initial Enrollment Period starts. However, you can only sign up for Part B (or Part A if you have to buy it) during the times listed below. Remember, in most cases, if you don’t sign up for Part A (if you have to buy it) and Part B when you’re first eligible, you may have to pay a late enrollment penalty for as long as you have the coverage.",
     "section": "Section 2—Signing Up for Medicare Part A and Part B",
@@ -156,7 +114,7 @@
   {
     "question": "Section 2—Signing Up for Medicare Part A and Part B   ",
     "paragraph": "If you have other insurance, be sure to tell your health care provider, hospital, and pharmacy. You’ll also need to let Medicare know by calling Medicare’s Benefits Coordination & Recovery Center (BCRC) at 1-855-798-2627. TTY users should call 1-855-797-2627. You also can contact your employer or union benefits administrator if you have questions about how your other insurance will work with Medicare. ",
-    "section": "Section 2—Signing Up for Medicare Part A and Part B   ",
+    "section": "Section 2—Signing Up for Medicare Part A and Part B",
     "page": 30,
     "id": 38
   },
@@ -177,7 +135,7 @@
   {
     "question": "Section 2—Signing Up for Medicare Part A and Part B   ",
     "paragraph": "Note: If you like, you can keep your Marketplace plan too. But if you’ve been getting premium tax credits or other savings on a Marketplace plan, your eligibility for these savings will end once your Medicare Part A coverage starts. You’d have to pay full price for the Marketplace plan. ",
-    "section": "Section 2—Signing Up for Medicare Part A and Part B   ",
+    "section": "Section 2—Signing Up for Medicare Part A and Part B",
     "page": 32,
     "id": 41
   },
@@ -187,13 +145,6 @@
     "section": "Section 2—Signing Up for Medicare Part A and Part B",
     "page": 32,
     "id": 42
-  },
-  {
-    "question": "Section 2—Signing Up for Medicare Part A and Part B ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 2—Signing Up for Medicare Part A and Part B ",
-    "page": 33,
-    "id": 43
   },
   {
     "question": "What’s the PartA late enrollment penalty? ",
@@ -212,16 +163,9 @@
   {
     "question": "Section 2—Signing Up for Medicare Part A and Part B   ",
     "paragraph": "Each year, Social Security will tell you if you have to pay more than the standard premium. The amount you pay can change each year depending on your income. If you have to pay a higher amount for your Part B premium and you disagree (for example, if your income goes down), call Social Security at 1-800-772-1213. TTY users should call 1-800-325-0778. If you get benefits from the Railroad Retirement Board (RRB), you should still contact Social Security because the RRB doesn’t make income determinations. For more information, visit socialsecurity.gov/pubs/EN-05-10536.pdf to view the fact sheet “Medicare Premiums: Rules for Higher Income Beneficiaries.” ",
-    "section": "Section 2—Signing Up for Medicare Part A and Part B   ",
+    "section": "Section 2—Signing Up for Medicare Part A and Part B",
     "page": 34,
     "id": 46
-  },
-  {
-    "question": "Section 2—Signing Up for Medicare Part A and Part B ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 2—Signing Up for Medicare Part A and Part B ",
-    "page": 35,
-    "id": 47
   },
   {
     "question": "What do I pay for Part A-covered services? ",
@@ -338,7 +282,7 @@
   {
     "question": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item ",
     "paragraph": "Doctors who provide concierge care must still follow all Medicare rules: ■Doctors who accept assignment can’t charge you extra for Medicare-covered services. This means the membership fee can’t include additional charges for items or services that Medicare covers unless your doctor thinks Medicare probably (or certainly) won’t pay for the item or service because it’s not medically necessary. In this situation, your doctor must give you a written notice called an “Advance Beneficiary Notice of Noncoverage” (ABN). ■Doctors who don’t accept assignment can charge you more than the Medicare approved amount for Medicare-covered services, but there’s a 15% limit called the “limiting charge.” ■All Medicare doctors (regardless of whether or not they accept assignment) can charge you for items and services that Medicare doesn’t cover. Note: You pay 100% of the membership fee for concierge care. ",
-    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item ",
+    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
     "page": 49,
     "id": 64
   },
@@ -588,37 +532,30 @@
     "id": 99
   },
   {
-    "question": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
-    "page": 72,
-    "id": 100
-  },
-  {
     "question": "Personal resources",
     "paragraph": "—Many people choose to use their own resources to pay for long-term care. Keep in mind that long-term care can be very expensive. It’s important to know the financial risks before you decide to try to save enough money on your own. You should discuss your specific situation with your family members and a financial professional. ",
-    "section": "Personal resources",
+    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
     "page": 72,
     "id": 101
   },
   {
     "question": "Other private options",
     "paragraph": "—Besides long-term care insurance and personal resources, some insurance companies let you use your life insurance policy to pay for long-term care. Ask your insurance agent how this works. Also, you may choose to pay for long-term care through a trust or annuity. The best option for you depends on your age, health status, risk of needing long-term care, and your personal financial situation. Visit longtermcare.gov for more information about your options. ",
-    "section": "Other private options",
+    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
     "page": 72,
     "id": 102
   },
   {
     "question": "Medicaid",
     "paragraph": "—Medicaid is a joint federal and state program that helps pay for certain health services for people with limited income and resources. If you qualify, you may be able to get help to pay for nursing home care or other health care costs. If you’re eligible for Medicaid, you may be able to get Medicaid services that help you stay in your home instead of moving to a nursing home. For more information, contact your State Medical Assistance (Medicaid) office. Visit Medicare.gov/contacts, or call 1-800-MEDICARE (1-800-633-4227) and say “Medicaid” to get the phone number. TTY users should call 1-877-486-2048. See pages 124–125 for more information about Medicaid. ",
-    "section": "Medicaid",
+    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
     "page": 72,
     "id": 103
   },
   {
     "question": "Veterans’ benefits",
     "paragraph": "— Veterans and survivors who are eligible for a Department of Veterans Affairs (VA) pension and require the aid and attendance of another person, or are housebound, may be eligible for additional monetary payments. For more information, visit va.gov, or call the VA at 1-800-827-1000. TTY users should call 1-800-829-4833. ",
-    "section": "Veterans’ benefits",
+    "section": "Section 3—Find Out if Medicare Covers Your Test, Service, or Item",
     "page": 72,
     "id": 104
   },
@@ -632,35 +569,35 @@
   {
     "question": "Section 4—What’s Original Medicare?  Original Medicare Can I get my health care from any doctor, other health care provider, or hospital? ",
     "paragraph": "In most cases, yes. You can go to any doctor, other health care provider, hospital, or other facility that’s enrolled in Medicare and accepting Medicare patients. Visit Medicare.gov to search for and compare health care providers, hospitals, and facilities in your area.",
-    "section": "Section 4—What’s Original Medicare?  Original Medicare Can I get my health care from any doctor, other health care provider, or hospital? ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 75,
     "id": 106
   },
   {
     "question": "Are prescription drugs covered? ",
     "paragraph": "With a few exceptions (see pages 40, 61, and 66), most prescriptions aren’t covered. You can add drug coverage by joining a Medicare Prescription Drug Plan (Part D). See pages 105–118.",
-    "section": "Are prescription drugs covered? ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 75,
     "id": 107
   },
   {
     "question": "Do I need to choose a primary care doctor? ",
     "paragraph": "No. ",
-    "section": "Do I need to choose a primary care doctor? ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 75,
     "id": 108
   },
   {
     "question": "Do I have to get a referral to see a specialist? ",
     "paragraph": "In most cases, no, but the specialist must be enrolled in Medicare. ",
-    "section": "Do I have to get a referral to see a specialist? ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 75,
     "id": 109
   },
   {
     "question": "Should I get a supplemental policy? ",
     "paragraph": "You may already have employer or union coverage that may pay costs that Original Medicare doesn’t. If not, you may want to buy a Medicare Supplement Insurance (Medigap) policy if you’re eligible. See pages 99–104. ",
-    "section": "Should I get a supplemental policy? ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 75,
     "id": 110
   },
@@ -674,21 +611,21 @@
   {
     "question": "Section 4—What’s Original Medicare?  ",
     "paragraph": "If you need to change your address on your notice, call Social Security at 1-800-772-1213. TTY users should call 1-800-325-0778. If you get Railroad Retirement Board (RRB) benefits, call the RRB at 1-877-772-5772. TTY users should call 1-312-751-4701. ",
-    "section": "Section 4—What’s Original Medicare?  ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 77,
     "id": 112
   },
   {
     "question": "Check your claims on MyMedicare.gov",
     "paragraph": "You don’t have to wait for your MSNs to come in the mail to view your Medicare claims or file an appeal. Visit MyMedicare.gov to look at your Medicare claims or view electronic copies of your MSNs. Your claims generally will be available for viewing within 24 hours after processing. You can also download your claims information by using Medicare’s Blue Button. See page 144. ",
-    "section": "Check your claims on MyMedicare.gov",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 77,
     "id": 113
   },
   {
     "question": "Get Your Medicare Summary Notices electronically every month ",
     "paragraph": "Go paperless and get your Medicare Summary Notices electronically (also called “eMSNs”). Starting in fall 2015, you can sign up by calling 1-800-MEDICARE (1-800-633-4227). TTY users should call 1-877-486-2048. If you sign up for eMSNs, we’ll send you an email each month when they are available in your MyMedicare.gov account. The eMSNs contain the same information as paper MSNs. You won’t get printed copies of your MSNs in the mail if you choose eMSNs. ",
-    "section": "Get Your Medicare Summary Notices electronically every month ",
+    "section": "Section 4—What’s Original Medicare?",
     "page": 77,
     "id": 114
   },
@@ -728,44 +665,23 @@
     "id": 119
   },
   {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
-    "paragraph": "Definitions of blue words are on pages 153–156. ■Special Needs Plans (SNPs)—SNPs provide focused and specialized health care for specific groups of people, like those who have both Medicare and Medicaid, live in a nursing home, or have certain chronic medical conditions. See page 93. ■HMO Point-of-Service (HMOPOS) plans—These are HMO plans that may allow you to get some services out-of-network for a higher copayment or coinsurance. ■Medical Savings Account (MSA) plans—These plans combine a high-deductible health plan with a bank account. Medicare deposits money into the account (usually less than the deductible). You can use the money to pay for your health care services during the year. MSA plans don’t offer Medicare drug coverage. If you want drug coverage, you have to join a Medicare Prescription Drug Plan. For more information about MSAs, visit Medicare.gov/publications to view the booklet “Your Guide to Medicare Medical Savings Account Plans.” You can also call 1-800-MEDICARE (1-800-633-4227) to find out if a copy can be mailed to you. TTY users should call 1-877-486-2048. Make sure you understand how a plan works before you join. See pages 90–93 for more information about Medicare Advantage Plan types. If you want more information about a Medicare Advantage Plan, you can call any plan and request a “Summary of Benefits” (SB) document. Contact your State Health Insurance Assistance Program (SHIP) for help comparing plans. See page 149for the phone number. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
-    "page": 84,
-    "id": 120
-  },
-  {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ■Providers can join or leave a plan’s provider network anytime during the year. Your plan can also change the providers in the network anytime during the year. If this happens, you may need to choose a new provider. ■If you join a clinical research study, some costs may be covered by Original Medicare and some may be covered by your Medicare Advantage Plan. ■Medicare Advantage Plans can’t charge more than Original Medicare for certain services, like chemotherapy, dialysis, and skilled nursing facilitycare. ■Medicare Advantage Plans have a yearly limit on your out-of-pocket costs for medical services. Once you reach this limit, you’ll pay nothing for covered services. This limit may be different between Medicare Advantage Plans and can change each year. You should consider this when choosing a plan. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 85,
-    "id": 121
-  },
-  {
     "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health PlansPrescription drug coverage ",
     "paragraph": "You usually get prescription drug coverage (Part D) through the Medicare Advantage Plan. In certain types of Medicare Advantage Plans (PFFS or MSA plans) that don’t offer drug coverage, you can join a Medicare Prescription Drug Plan. If your Medicare Advantage Plan includes prescription drug coverage and you join a Medicare Prescription Drug Plan, you’ll be disenrolled from your Medicare Advantage Plan and returned to Original Medicare. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health PlansPrescription drug coverage ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 86,
     "id": 122
   },
   {
     "question": "Who can join? ",
     "paragraph": "You must meet these conditions to join a Medicare Advantage Plan: ■You have Part A and Part B. ■You live in the plan’s service area. ■You don’t have End-Stage Renal Disease (ESRD), except as explained on page 88. ■You’re a U.S. citizen or lawfully present in the United States. ",
-    "section": "Who can join? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 86,
     "id": 123
   },
   {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 87,
-    "id": 124
-  },
-  {
     "question": "What if I have a Medicare Supplement Insurance (Medigap) Policy? ",
     "paragraph": "You can’t use (and can’t be sold) a Medicare Supplement Insurance (Medigap) policy while you’re in a Medicare Advantage Plan. You can’t use it to pay for any expenses (copayments, deductibles, and premiums) you have under a Medicare Advantage Plan. If you already have a Medigap policy and join a Medicare Advantage Plan, you’ll probably want to drop your Medigap policy. If you drop your Medigap policy, you may not be able to get it back. See page 102. ",
-    "section": "What if I have a Medicare Supplement Insurance (Medigap) Policy? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 87,
     "id": 125
   },
@@ -777,13 +693,6 @@
     "id": 126
   },
   {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 89,
-    "id": 127
-  },
-  {
     "question": "Types of Medicare Advantage Plans Health Maintenance Organization (HMO) plan ",
     "paragraph": "Can I get my health care from any doctor, other health care ",
     "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
@@ -793,28 +702,28 @@
   {
     "question": "provider, or hospital? ",
     "paragraph": "No. You generally must get your care and services from doctors, other health care providers, or hospitals in the plan’s network (except emergency care, out-of-area urgent care, or out-of-area dialysis). In some plans, you may be able to go out-of-network for certain services, usually for a higher cost. This is called an HMO with a point-of-service (POS) option. ",
-    "section": "provider, or hospital? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 89,
     "id": 129
   },
   {
     "question": "Are prescription drugs covered? ",
     "paragraph": "In most cases, yes. If you want Medicare drug coverage, you must join an HMO plan that offers prescription drug coverage. Check with the plan for more information. ",
-    "section": "Are prescription drugs covered? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 89,
     "id": 130
   },
   {
     "question": "Do I need to choose a primary care doctor? ",
     "paragraph": "In most cases, yes. Check with the plan for more information. ",
-    "section": "Do I need to choose a primary care doctor? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 89,
     "id": 131
   },
   {
     "question": "Do I have to get a referral to see a specialist? ",
     "paragraph": "In most cases, yes. Certain services, like yearly screening mammograms, don’t require a referral. Check with the plan for more information. ",
-    "section": "Do I have to get a referral to see a specialist? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 89,
     "id": 132
   },
@@ -828,37 +737,30 @@
   {
     "question": "provider, or hospital? ",
     "paragraph": "In most cases, yes. PPOs have network doctors, other health care providers, and hospitals, but you can also use out-of-network providers for covered services, usually for a higher cost. Check with the plan for more information. ",
-    "section": "provider, or hospital? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 90,
     "id": 134
   },
   {
     "question": "Are prescription drugs covered? ",
     "paragraph": "In most cases, yes. If you want Medicare drug coverage, you must join a PPO plan that offers prescription drug coverage. Check with the plan for more information. ",
-    "section": "Are prescription drugs covered? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 90,
     "id": 135
   },
   {
     "question": "Do I need to choose a primary care doctor? ",
     "paragraph": "No. ",
-    "section": "Do I need to choose a primary care doctor? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 90,
     "id": 136
   },
   {
     "question": "Do I have to get a referral to see a specialist? ",
     "paragraph": "In most cases, no. Check with the plan for more information. ",
-    "section": "Do I have to get a referral to see a specialist? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 90,
     "id": 137
-  },
-  {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 91,
-    "id": 138
   },
   {
     "question": "Private Fee-for-Service (PFFS) plan ",
@@ -870,28 +772,28 @@
   {
     "question": "provider, or hospital? ",
     "paragraph": "You can go to any Medicare-approved doctor, other health care provider, or hospital that accepts the plan’s payment terms and agrees to treat you. Not all providers will. If you join a PFFS plan that has a network, you can also see any of the network providers who’ve agreed to always treat plan members. You can also choose an out-of-network doctor, hospital, or other provider, who accepts the plan’s terms, but you may pay more. Check with the plan for more information. ",
-    "section": "provider, or hospital? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 91,
     "id": 140
   },
   {
     "question": "Are prescription drugs covered? ",
     "paragraph": "Sometimes. If your PFFS plan doesn’t offer drug coverage, you can join a Medicare Prescription Drug Plan (Part D) to get coverage. Check with the plan for more information. ",
-    "section": "Are prescription drugs covered? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 91,
     "id": 141
   },
   {
     "question": "Do I need to choose a primary care doctor? ",
     "paragraph": "No. ",
-    "section": "Do I need to choose a primary care doctor? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 91,
     "id": 142
   },
   {
     "question": "Do I have to get a referral to see a specialist? ",
     "paragraph": "No. ",
-    "section": "Do I have to get a referral to see a specialist? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 91,
     "id": 143
   },
@@ -905,37 +807,30 @@
   {
     "question": "provider, or hospital? ",
     "paragraph": "You generally must get your care and services from doctors, other health care providers, or hospitals in the plan’s network (except emergency care, out-of-area urgent care, or out-of-area dialysis). Check with the plan for more information. ",
-    "section": "provider, or hospital? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 92,
     "id": 145
   },
   {
     "question": "Are prescription drugs covered? ",
     "paragraph": "Yes. All SNPs must provide Medicare prescription drug coverage (Part D). ",
-    "section": "Are prescription drugs covered? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 92,
     "id": 146
   },
   {
     "question": "Do I need to choose a primary care doctor? ",
     "paragraph": "Generally, yes. Check with the plan for more information. ",
-    "section": "Do I need to choose a primary care doctor? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 92,
     "id": 147
   },
   {
     "question": "Do I have to get a referral to see a specialist? ",
     "paragraph": "In most cases, yes. Certain services, like yearly screening mammograms, don’t require a referral. Check with the plan for more information. ",
-    "section": "Do I have to get a referral to see a specialist? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 92,
     "id": 148
-  },
-  {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 93,
-    "id": 149
   },
   {
     "question": "When can I join, switch, or drop a Medicare Advantage Plan? ",
@@ -947,23 +842,16 @@
   {
     "question": "Can I make changes to my coverage after December 7? ",
     "paragraph": "Between January 1–February 14, if you’re in a Medicare Advantage Plan, you can leave that plan and switch to Original Medicare. If you switch to Original Medicare during this period, you’ll have until February 14 to also join a Medicare Prescription Drug Plan to add drug coverage. Your coverage will begin the first day of the month after the plan gets your enrollment request. During this period, you can’t: ■Switch from Original Medicare to a Medicare Advantage Plan. ■Switch from one Medicare Advantage Plan to another. ■Switch from one Medicare Prescription Drug Plan to another. ■Join, switch, or drop a Medicare Medical Savings Account Plan. ",
-    "section": "Can I make changes to my coverage after December 7? ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 93,
     "id": 151
   },
   {
     "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans5-Star Special Enrollment Period ",
     "paragraph": "You can switch to a Medicare Advantage Plan or Medicare Cost Plan (see page 96) that has 5 stars for its overall star rating from December 8, 2015–November 30, 2016. You can only use this Special Enrollment Period once during this timeframe. The overall star ratings are available at Medicare.gov/find-a-plan. You may lose your prescription drug coverage if you move from a Medicare Advantage Plan that has drug coverage to a 5-star Medicare Advantage Plan that doesn’t. You’ll have to wait until the next Open Enrollment Period to get drug coverage, and you may have to pay a late enrollment penalty. See pages 112–113. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans5-Star Special Enrollment Period ",
+    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 94,
     "id": 152
-  },
-  {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 95,
-    "id": 153
   },
   {
     "question": "Are there other types of Medicare health plans?",
@@ -971,20 +859,6 @@
     "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans",
     "page": 95,
     "id": 154
-  },
-  {
-    "question": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 5—Learn about Medicare Advantage Plans (Part C) & Other Medicare Health Plans  ",
-    "page": 97,
-    "id": 155
-  },
-  {
-    "question": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?  ",
-    "page": 99,
-    "id": 156
   },
   {
     "question": "Medigap policies are standardized ",
@@ -1015,32 +889,11 @@
     "id": 160
   },
   {
-    "question": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?  ",
-    "page": 101,
-    "id": 162
-  },
-  {
     "question": "What else should I know about Medicare Supplement Insurance (Medigap)? ",
     "paragraph": "Important facts ■You must have Part A and Part B. ■You pay the private insurance company a monthly premium for your Medigap policy in addition to your monthly Part B premium that you pay to Medicare. Contact the company to find out how to pay your premium. ■A Medigap policy only covers one person. Spouses must buy separate policies. ■You can’t have prescription drug coverage in both your Medigap policy and a Medicare drug plan. See page 117. ■It’s important to compare Medigap policies since the costs can vary and may go up as you get older. Some states limit Medigap premium costs. ",
     "section": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?",
     "page": 101,
     "id": 163
-  },
-  {
-    "question": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?  ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 6—What are Medicare Supplement Insurance (Medigap) Policies?  ",
-    "page": 103,
-    "id": 164
-  },
-  {
-    "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "paragraph": "Definitions of blue words are on pages 153–156. 2.Medicare Advantage Plans (like HMOs or PPOs) or other Medicare health plans that offer Medicare prescription drug coverage. You get all of your Part A, Part B, and prescription drug coverage (Part D), through these plans. Medicare Advantage Plans with prescription drug coverage are sometimes called “MA-PDs.” Remember, you must have Part A and Part B to join a Medicare Advantage Plan, and not all of these plans offer drug coverage. In either case, you must live in the service area of the Medicare drug plan you want to join. Both types of plans are called “Medicare drug plans” in this handbook. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "page": 105,
-    "id": 165
   },
   {
     "question": "If you have employer or union coverage ",
@@ -1066,16 +919,9 @@
   {
     "question": "If you have a Medicare Advantage Plan ",
     "paragraph": "If your Medicare Advantage Plan includes prescription drug coverage and you join a Medicare Prescription Drug Plan, you’ll be disenrolled from your Medicare Advantage Plan and returned to Original Medicare. ",
-    "section": "If you have a Medicare Advantage Plan ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 106,
     "id": 169
-  },
-  {
-    "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "page": 107,
-    "id": 170
   },
   {
     "question": "How do I drop a Medicare drug plan? ",
@@ -1094,44 +940,30 @@
   {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D)  ",
     "paragraph": "If you have a higher income, you might pay more for your Part D coverage. If your income is above a certain limit ($85,000 if you file individually or $170,000 if you’re married and file jointly), you’ll pay an extra amount in addition to your plan premium. This doesn’t affect everyone, so most people won’t have to pay a higher amount. Usually, the extra amount will be deducted from your Social Security check. If you get benefits from the Railroad Retirement Board (RRB), the extra amount will be deducted from your RRB check. If you’re billed the amount by Medicare or the RRB, you must pay the extra amount to Medicare or the RRB and not your plan. If you don’t pay the extra amount to Medicare (or RRB), you could lose your Part D coverage. You may not be able to enroll in another plan right away and you may have to pay a late enrollment penalty for as long as you have Part D. If you have to pay an extra amount and you disagree (for example, you have a life event that lowers your income), visit socialsecurity.gov or call Social Security at 1-800-772-1213. TTY users should call 1-800-325-0778. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)  ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 108,
     "id": 173
   },
   {
     "question": "Yearly deductible",
     "paragraph": "This is the amount you must pay before your drug plan begins to pay its share of your covered drugs. Some drug plans don’t have a deductible. ",
-    "section": "Yearly deductible",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 108,
     "id": 174
   },
   {
     "question": "Copayments or coinsurance",
     "paragraph": "These are the amounts you pay for your covered prescriptions after the deductible (if the plan has one). You pay your share and your drug plan pays its share for covered drugs. These amounts may vary. ",
-    "section": "Copayments or coinsurance",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 108,
     "id": 175
   },
   {
-    "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "paragraph": "Definitions of blue words are on pages 153–156. These items all count toward you getting out of the coverage gap: ■Your yearly deductible, coinsurance, and copayments■The discount you get on covered brand-name drugs in the coverage gap ■What you pay in the coverage gap The drug plan premium and what you pay for drugs that aren’t covered don’t count toward getting you out of the coverage gap. Some plans offer additional cost sharing reductions in the gap beyond the standard benefits and discounts on brand-name and generic drugs, but they may charge a higher monthly premium. Check with the plan first to see if your drugs would have additional cost sharing reductions during the gap. In addition to the discount on covered brand-name prescription drugs, there will be increasing coverage for brand-name and generic drugs in the coverage gap each year until the gap closes in 2020. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "page": 109,
-    "id": 176
-  },
-  {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D)  ",
     "paragraph": "The example below shows costs for covered drugs in 2016 for a plan that has a coverage gap. Visit the Medicare Plan Finder at Medicare.gov/find-a-plan to compare the cost of plans in your area, and call the plans you’re interested in to get more details. For help comparing plan costs, contact your State Health Insurance Assistance Program (SHIP). See page 149 for the phone number. Important!Ms. Smith joins the ABC Prescription Drug Plan. Her coverage begins on January 1, 2016. She doesn’t get Extra Help and uses her Medicare drug plan membership card when she buys prescriptions. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)  ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 110,
     "id": 177
-  },
-  {
-    "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "page": 111,
-    "id": 178
   },
   {
     "question": "What’s the Part D late enrollment penalty? ",
@@ -1143,16 +975,9 @@
   {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) How much more will I pay? ",
     "paragraph": "The cost of the late enrollment penalty depends on how long you didn’t have creditable prescription drug coverage. Currently, the late enrollment penalty is calculated by multiplying 1% of the “national base beneficiary premium” ($33.13 in 2015) by the number of full, uncovered months that you were eligible but didn’t join a Medicare drug plan and went without other creditable prescription drug coverage. The final amount is rounded to the nearest $.10 and added to your monthly premium. Since the “national base beneficiary premium” may increase each year, the penalty amount may also increase each year. In most cases, you have to pay this penalty for as long as you have a Medicare drug plan, even if you switch plans. After you join a Medicare drug plan, the plan will tell you if you owe a penalty and what your premium will be. Example: Mrs. Martin didn’t join when she was first eligible—by June 2012. She doesn’t have prescription drug coverage from any other source. She joined a Medicare drug plan during the 2014 Open Enrollment Period, and her coverage began on January 1, 2015. Since Mrs. Martin was without creditable prescription drug coverage from July 2012–December 2014, her penalty in 2015 is 30% (1%for each of the 30 months) of $33.13 (the national base beneficiary premium for 2015), which is $9.93. The monthly penalty is rounded to the nearest $.10, so she’ll be charged $9.90 each month in addition to her plan’s monthly premium in 2015. Here’s the math: .30 (30% penalty) × $33.13 (2015 base beneficiary premium) = $9.93 $9.93 (rounded to the nearest $0.10) = $9.90 $9.90 = Mrs. Martin’s monthly late enrollment penalty for 2015 ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) How much more will I pay? ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 112,
     "id": 180
-  },
-  {
-    "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
-    "page": 113,
-    "id": 181
   },
   {
     "question": "Which drugs are covered?",
@@ -1164,7 +989,7 @@
   {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
     "paragraph": "Starting in early 2016, with limited exceptions, your prescribers need to be enrolled in Medicare or have an “opt-out” request on file with Medicare for your prescriptions to be covered by your Medicare drug plan. If your prescriber isn’t enrolled or has “opted-out,” you’ll still be able to get a 3-month provisional fill of your prescription. This will give your prescriber time to enroll, or you time to find a new prescriber who’s enrolled. Contact your plan or your prescribers for more information. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 114,
     "id": 183
   },
@@ -1178,30 +1003,23 @@
   {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
     "paragraph": "It’s a good idea to schedule your medication review before your yearly “Wellness” visit, so you can talk to your doctor about your action plan and medication list. Bring your action plan and medication list with you to your visit or anytime you talk with your doctors, pharmacists, and other health care providers. Also, take your medication list with you if you go to the hospital or emergency room. Your drug plan may enroll you in this program if you meet all of these conditions: 1.You have more than one chronic health condition. 2.You take several different medications. 3.Your medications have a combined cost of more than $3,507 per year. This dollar amount (which can change each year) is estimated based on your out-of-pocket costs and the costs your plan pays for the medications each calendar year. Your plan can help you find out if you may reach this dollar limit. Visit Medicare.gov/find-a-plan to get general information about program eligibility for your Medicare drug plan or for other plans that interest you. Contact each drug plan for specific details. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 115,
     "id": 185
   },
   {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D)  ",
     "paragraph": "COBRA—This is a federal law that may allow you to temporarily keep employer or union health coverage after the employment ends or after you lose coverage as a dependent of the covered employee. As explained on pages 26–27, there may be reasons why you should take Part B instead of, or in addition to, COBRA coverage. However, if you take COBRA and it includes creditable prescription drug coverage, you’ll have a Special Enrollment Period to join a Medicare drug plan without paying a penalty when the COBRA coverage ends. Talk with your State Health Insurance Assistance Program (SHIP) to see if COBRA is a good choice for you. See page 149 for the phone number. Medicare Supplement Insurance (Medigap) policy with prescription drug coverage—You may choose to join a Medicare drug plan because most Medigap drug coverage isn’t creditable, and you may pay more if you join a drug plan later. See pages 112–113. Medigap policies can no longer be sold with prescription drug coverage, but if you have drug coverage under a current Medigap policy, you can keep it. If you join a Medicare drug plan, tell your Medigap insurance company so they can remove the prescription drug coverage under your Medigap policy and adjust your premiums. Call your Medigap insurance company for more information.Note: Keep any creditable prescription drug coverage information you get from your plan. You may need it if you decide to join a Medicare drug plan later. Don’t send creditable coverage letters or certificates to Medicare. ",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)  ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 116,
     "id": 186
   },
   {
     "question": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
     "paragraph": "Veterans’ benefits—This is health coverage for veterans and people who have served in the U.S. military. You may be able to get prescription drug coverage through the U.S. Department of Veterans Affairs (VA) program. You may join a Medicare drug plan, but if you do, you can’t use both types of coverage for the same prescription at the same time. For more information, visit va.gov, or call the VA at 1-800-827-1000. TTY users should call 1-800-829-4833. TRICARE (military health benefits)—This is a health care plan for active-duty service members, military retirees, and their families. Most people with TRICARE who are entitled to Part A must have Part B to keep TRICARE prescription drug benefits. If you have TRICARE, you don’t need to join a Medicare Prescription Drug Plan. However, if you do, your Medicare drug plan pays first, and TRICARE pays second. If you join a Medicare Advantage Plan (like an HMO or PPO) with prescription drug coverage, your Medicare Advantage Plan and TRICARE may coordinate their benefits if your Medicare Advantage Plan network pharmacy is also a TRICARE network pharmacy. Otherwise, you can file your own claim to get paid back for your out-of-pocket expenses. For more information, visit tricare.mil, or call the TRICARE Pharmacy Program at 1-877-363-1303. TTY users should call 1-877-540-6261. Indian Health Service (IHS)—The IHS is the primary health care provider to the American Indian/Alaska Native (AI/AN) Medicare population. The Indian health care system, consisting of tribal, urban, and federally operated IHS health programs, delivers a spectrum of clinical and preventive health services through a network of hospitals, clinics, and other entities. Many Indian health facilities participate in the Medicare prescription drug program. If you get prescription drugs through an Indian health facility, you’ll continue to get drugs at no cost to you, and your coverage won’t be interrupted. Joining a Medicare drug plan may help your Indian health facility because the drug plan pays the Indian health facility for the cost of your prescriptions. Talk to your local Indian health benefits coordinator who can help you choose a plan that meets your needs and tell you how Medicare works with the Indian health care system. Note: If you’re getting care through an IHS or tribal health facility or program without being charged, you can continue to do so for some or all of your care. Getting Medicare doesn’t affect your ability to get services through the IHS and tribal health facilities.",
-    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D) ",
+    "section": "Section 7— Get Information about Prescription Drug Coverage (Part D)",
     "page": 117,
     "id": 187
-  },
-  {
-    "question": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
-    "page": 121,
-    "id": 188
   },
   {
     "question": "Paying the right amount ",
@@ -1218,23 +1036,16 @@
     "id": 190
   },
   {
-    "question": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
-    "page": 123,
-    "id": 191
-  },
-  {
     "question": "How do I qualify? ",
     "paragraph": "In most cases, to qualify for a Medicare Savings Program, you must have: ■Part A ■Monthly income less than $1,333 and resources less than $7,160—single person ■Monthly income less than $1,790 and resources less than $10,750—married and living together Note: The amounts above are for 2015 and may change each year. Many states figure your income and resources differently, so you may qualify in your state even if your income or resources are higher than the amounts listed above. If you have income from working, you may qualify for benefits even if your income is higher than the limits above. Resources include money in a checking or savings account, stocks, bonds, mutual funds, and Individual Retirement Accounts (IRAs). Resources don’t include your home, car, burial plot, burial expenses up to your state’s limit, furniture, or other household items. Some states don’t have any limits on resources. ",
-    "section": "How do I qualify? ",
+    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
     "page": 123,
     "id": 192
   },
   {
     "question": "For more information ",
     "paragraph": "■Call or visit your State Medical Assistance (Medicaid) office, and ask for information on Medicare Savings Programs. To get the phone number for your state, visit Medicare.gov/contacts. You can also call 1-800-MEDICARE (1-800-633-4227), and say “Medicaid.” TTY users should call 1-877-486-2048. ■Contact your State Health Insurance Assistance Program (SHIP). See page 149 for the phone number. ",
-    "section": "For more information ",
+    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
     "page": 123,
     "id": 193
   },
@@ -1255,23 +1066,16 @@
   {
     "question": "How do I qualify? ",
     "paragraph": "■Medicaid programs vary from state to state. They may also have different names, like “Medical Assistance” or “Medi-Cal.” ■Each state has different income and resource requirements. ■Many states have expanded their Medicaid programs to cover more people. Even if you were told you didn’t qualify for Medicaid in the past, you may qualify under the new rules. ■In some states, you may need to be enrolled in Medicare, if eligible, to get Medicaid. ■Call your State Medical Assistance (Medicaid) office for more information and to see if you qualify. Visit Medicare.gov/contacts, or call 1-800-MEDICARE (1-800-633-4227) and say “Medicaid” to get the phone number. TTY users should call 1-877-486-2048. ",
-    "section": "How do I qualify? ",
+    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
     "page": 124,
     "id": 196
   },
   {
     "question": "Demonstration plans for people who have both Medicare and Medicaid ",
     "paragraph": "Medicare is working with several states and health plans to create demonstration plans for certain people who have both Medicare and Medicaid, called Medicare-Medicaid Plans. These plans include all your Medicare and Medicaid benefits, and prescription drug coverage. They’re designed to help better coordinate your benefits. If you’re interested in joining a Medicare-Medicaid Plan, visit Medicare.gov/find-a-plan to see if one is available in your area and if you qualify. Call your State Medical Assistance (Medicaid) office for more information. Visit Medicare.gov/contacts, or call 1-800-MEDICARE and say “Medicaid” to get the phone number. ",
-    "section": "Demonstration plans for people who have both Medicare and Medicaid ",
+    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
     "page": 124,
     "id": 197
-  },
-  {
-    "question": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
-    "paragraph": "Definitions of blue words are on pages 153–156. ",
-    "section": "Section 8— Get Help Paying Your Health & Prescription Drug Costs",
-    "page": 125,
-    "id": 198
   },
   {
     "question": "Pharmaceutical Assistance Programs (also called Patient Assistance Programs) ",
@@ -1297,7 +1101,7 @@
   {
     "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
     "paragraph": "128",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
+    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 127,
     "id": 202
   },
@@ -1309,13 +1113,6 @@
     "id": 203
   },
   {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
-    "paragraph": "129Definitions of blue words are on pages 153–156. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
-    "page": 128,
-    "id": 204
-  },
-  {
     "question": "How do I file an appeal? ",
     "paragraph": "How you file an appeal depends on the type of Medicare coverage you have: ",
     "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
@@ -1325,28 +1122,21 @@
   {
     "question": "If you have Original Medicare ",
     "paragraph": "1.Get the “Medicare Summary Notice” (MSN) that shows the item or service you’re appealing. Your MSN is the notice you get every 3 months that lists all the services billed to Medicare and tells you if Medicare paid for the services. See pages 77–78. 2.Circle the item(s) you disagree with on the MSN, and write an explanation of why you disagree with the decision on the MSN or on a separate piece of paper and attach it to the MSN. 3.Include your name, phone number, and Medicare number on the MSN, and sign it. Keep a copy for your records. 4.Send the MSN, or a copy, to the company that handles bills for Medicare (Medicare Administrative Contractor) listed on the MSN. You can include any other additional information you have about your appeal. Or, you can use CMS Form 20027, and file it with the company that handles bills for Medicare listed on the MSN. To view or print this form, visit cms.gov/cmsforms/downloads/cms20027.pdf, or call 1-800-MEDICARE (1-800-633-4227) to have a copy mailed to you. TTY users should call 1-877-486-2048. 5.You must file the appeal within 120 days of the date you get the MSN in the mail. You’ll generally get a decision from the Medicare Administrative Contractor within 60 days after they get your request. If Medicare will cover the item(s) or service(s), it will be listed on your next MSN. ",
-    "section": "If you have Original Medicare ",
+    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 128,
     "id": 206
   },
   {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "paragraph": "130Definitions of blue words are on pages 153–156. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "page": 129,
-    "id": 207
-  },
-  {
     "question": "If you have a Medicare Prescription Drug Plan ",
     "paragraph": "You have the right to do all of these (even before you buy a certain drug): ■Get a written explanation (called a “coverage determination”) from your Medicare drug plan. A coverage determination is the first decision made by your Medicare drug plan (not the pharmacy) about your benefits, including whether a certain drug is covered, whether you’ve met the requirements to get a requested drug, how much you pay for a drug, and whether to make an exception to a plan rule when you request it. ■Ask for an exception if you or your prescriber (your doctor or other health care provider who’s legally allowed to write prescriptions) believes you need a drug that isn’t on your plan’s formulary. ■Ask for an exception if you or your prescriber believes that a coverage rule (like prior authorization) should be waived. ■Ask for an exception if you think you should pay less for a higher tier (more expensive) drug because you or your prescriber believes you can’t take any of the lower tier (less expensive) drugs for the same condition. ",
-    "section": "If you have a Medicare Prescription Drug Plan ",
+    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 129,
     "id": 208
   },
   {
     "question": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
     "paragraph": "131If you’re requesting an exception, your prescriber must provide a statement explaining the medical reason why the exception should be approved. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
+    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 130,
     "id": 209
   },
@@ -1356,13 +1146,6 @@
     "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 130,
     "id": 210
-  },
-  {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "paragraph": "132Definitions of blue words are on pages 153–156. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "page": 131,
-    "id": 211
   },
   {
     "question": "What’s an “Advance Beneficiary Notice of Noncoverage” (ABN)?",
@@ -1381,7 +1164,7 @@
   {
     "question": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
     "paragraph": "133",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
+    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 132,
     "id": 214
   },
@@ -1407,39 +1190,11 @@
     "id": 217
   },
   {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "paragraph": "134",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "page": 133,
-    "id": 218
-  },
-  {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "paragraph": "136Definitions of blue words are on pages 153–156. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "page": 135,
-    "id": 219
-  },
-  {
     "question": "How can I protect myself from identity theft?",
     "paragraph": "Identity theft happens when someone uses your personal information without your consent to commit fraud or other crimes. Personal information includes things like your name and your Social Security, Medicare, credit card, or bank account numbers. Guard your cards and protect your Medicare and Social Security numbers. Keep this information safe.Only give personal information, like your Medicare number, to doctors, other health care providers, and plans approved by Medicare; any insurer who pays benefits on your behalf; and to trusted people in the community who work with Medicare, like your State Health Insurance Assistance Program (SHIP) or Social Security. Call 1-800-MEDICARE (1-800-633-4227) if you aren’t sure if a provider is approved by Medicare. TTY users should call 1-877-486-2048. If you suspect identity theft, or feel like you gave your personal information to someone you shouldn’t have, call your local police department and the Federal Trade Commission’s ID Theft Hotline at 1-877-438-4338. TTY users should call 1-866-653-4261. Visit ftc.gov/idtheft to learn more about identity theft. ",
     "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 135,
     "id": 220
-  },
-  {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
-    "paragraph": "137",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
-    "page": 136,
-    "id": 221
-  },
-  {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "paragraph": "138Definitions of blue words are on pages 153–156. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "page": 137,
-    "id": 222
   },
   {
     "question": "Plans must follow rules ",
@@ -1458,7 +1213,7 @@
   {
     "question": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
     "paragraph": "139",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud ",
+    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
     "page": 138,
     "id": 225
   },
@@ -1477,13 +1232,6 @@
     "id": 227
   },
   {
-    "question": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "paragraph": "140Definitions of blue words are on pages 153–156. ",
-    "section": "Section 9—Know Your Rights & Protect Yourself from Fraud  ",
-    "page": 139,
-    "id": 228
-  },
-  {
     "question": "What are advance directives?",
     "paragraph": "Advance directives are legal documents that allow you to put in writing what kind of health care you would want or name someone who can speak for you if you were too ill to speak for yourself. These legal documents help ensure your wishes are followed, but it’s important to talk to your family, friends, and health care providers about your wishes. You should also make sure that your family, friends, and health care providers have copies of your legal documents. It’s better to think about these important decisions and have plans in place before you’re ill or a crisis strikes. Advance directives most often include: ■A health care proxy (sometimes called a “durable power of attorney for health care”). This is used to name the person you want to make health care decisions for you if you aren’t able to make them yourself. You can also use this document to provide special instructions and limitations for the person you named to be your health care proxy. ■A living will. This is another way to make sure your voice is heard. It states which medical treatment you would accept or refuse if your life is threatened. ■After-death wishes. These may include choices like organ and tissue donation. Each state has its own laws for creating advance directives. Some states may allow you to combine your advance directives in one document. ",
     "section": "Section 9—Know Your Rights & Protect Yourself from Fraud",
@@ -1493,7 +1241,7 @@
   {
     "question": "Section 10— Get More Information  ",
     "paragraph": "142",
-    "section": "Section 10— Get More Information  ",
+    "section": "Section 10— Get More Information",
     "page": 141,
     "id": 230
   },
@@ -1514,7 +1262,7 @@
   {
     "question": "Section 10— Get More Information  ",
     "paragraph": "143",
-    "section": "Section 10— Get More Information  ",
+    "section": "Section 10— Get More Information",
     "page": 142,
     "id": 233
   },
@@ -1528,7 +1276,7 @@
   {
     "question": "edicare.gov",
     "paragraph": "■Get detailed information about the Medicare health and prescription drug plans in your area, including what they cost and what services they provide. ■Find doctors or other health care providers and suppliers who participate in Medicare. ■See what Medicare covers, including preventive services. ■Get Medicare appeals information and forms. ■Get information about the quality of care provided by plans, nursing homes, hospitals, home health agencies, and dialysis facilities. ■Look up helpful websites and phone numbers. ",
-    "section": "edicare.gov",
+    "section": "Section 10— Get More Information",
     "page": 142,
     "id": 235
   },
@@ -1541,15 +1289,8 @@
   },
   {
     "question": "Section 10— Get More Information  ",
-    "paragraph": "144Definitions of blue words are on pages 153–156. Get access to your personal health information using Medicare’s Blue Button. This feature lets you download 12–36 months of claims information for Part A and Part B and 12 months of claims information for Part D. This information can help you make more informed decisions about your care and can give your health care providers a more complete view of your health history. Visit MyMedicare.gov to use the Blue Button today. Once you’ve used the Blue Button, there are a variety of health applications and services to analyze your health information. Visit bluebuttonconnector.healthit.gov to learn more about these useful tools and how to protect your health information once it’s in your hands.",
-    "section": "Section 10— Get More Information  ",
-    "page": 143,
-    "id": 237
-  },
-  {
-    "question": "Section 10— Get More Information  ",
     "paragraph": "145These search tools on Medicare.gov give you a “snapshot” of the quality of care and services some plans and providers give. Medicare Plan Finder and Nursing Home Compare both feature a star rating system to help you compare plans and quality of care measures that are important to you. Find out more about the quality of care and services by: ■Asking what your plan or provider does to ensure and improve the quality of care and services. Each plan and health care provider should have someone you can talk to about quality. ■Asking your doctor or other health care provider what he or she thinks about the quality of care or services the plan or other providers give. You can also talk to your doctor or other health care provider about Medicare’s information on quality of care and services. ",
-    "section": "Section 10— Get More Information  ",
+    "section": "Section 10— Get More Information",
     "page": 144,
     "id": 238
   },
@@ -1561,46 +1302,18 @@
     "id": 239
   },
   {
-    "question": "Section 10— Get More Information  ",
-    "paragraph": "146Definitions of blue words are on pages 153–156. ",
-    "section": "Section 10— Get More Information  ",
-    "page": 145,
-    "id": 240
-  },
-  {
     "question": "Electronic prescribing",
     "paragraph": "—This is an electronic way for your prescribers (your doctor or other health care provider who’s legally allowed to write prescriptions) to send your prescriptions directly to your pharmacy. Electronic prescribing can save you money, time, and help keep you safe. If your prescription is eligible to be prescribed electronically, you’ll see these benefits: ■You don’t have to drop off and wait for your prescription. Your prescription may be ready when you arrive. ■Prescribers can check which drugs your insurance covers and may be able to prescribe a drug that costs you less. ■Electronic prescriptions are easier for the pharmacist to read than handwritten prescriptions. This means there’s less chance that you’ll get the wrong drug or dose. ■Prescribers can be alerted to potential drug interactions, allergies, and other warnings. ",
-    "section": "Electronic prescribing",
+    "section": "Section 10— Get More Information",
     "page": 145,
     "id": 241
   },
   {
     "question": "Section 10— Get More Information  ",
     "paragraph": "147The poster in your doctor’s office will also let you know that Medicare will share certain information with the ACO about the care you received from your doctors and other providers. With the information Medicare shares, the doctors and health care providers in the ACO can have a complete picture of your health and be better able to coordinate your care. Talk with your doctor or call 1-800-MEDICARE (1-800-633-4227) if you have any questions about the information Medicare may share with the ACO in which your doctor participates. TTY users should call 1-877-486-2048. You can ask Medicare not to share certain information with the ACO about the care you got from your doctors and other health care providers. To do this, call 1-800-MEDICARE and tell us you don’t want us to share this information. You can change your data sharing preferences at any time by calling 1-800-MEDICARE. Your Medicare benefits, services, costs, and protections won’t change if your doctor participates in an ACO or if you prefer that Medicare not share your information. You still have the right to visit and get care from any doctor or hospital that accepts Medicare at any time, the same way you do now. For more information, visit Medicare.gov/acos.html, or call 1-800-MEDICARE. ",
-    "section": "Section 10— Get More Information  ",
+    "section": "Section 10— Get More Information",
     "page": 146,
     "id": 242
-  },
-  {
-    "question": "Section 10— Get More Information  ",
-    "paragraph": "148",
-    "section": "Section 10— Get More Information  ",
-    "page": 147,
-    "id": 243
-  },
-  {
-    "question": "Videos ",
-    "paragraph": "Visit YouTube.com/cmshhsgov to see videos covering different health care topics on Medicare’s YouTube channel. ",
-    "section": "Section 10— Get More Information",
-    "page": 147,
-    "id": 244
-  },
-  {
-    "question": "Blogs ",
-    "paragraph": "Visit blog.medicare.gov for up-to-date news from our website. ",
-    "section": "Section 10— Get More Information",
-    "page": 147,
-    "id": 245
   },
   {
     "question": "Resources for caregivers ",
@@ -1608,19 +1321,5 @@
     "section": "Section 10— Get More Information",
     "page": 147,
     "id": 246
-  },
-  {
-    "question": "Section 10— Get More Information  ",
-    "paragraph": "149",
-    "section": "Section 10— Get More Information  ",
-    "page": 148,
-    "id": 247
-  },
-  {
-    "question": "National Medicare Handbook",
-    "paragraph": "10% recycled paper ",
-    "section": "National Medicare Handbook",
-    "page": 159,
-    "id": 248
   }
 ]
